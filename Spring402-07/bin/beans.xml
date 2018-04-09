@@ -16,7 +16,7 @@
     
     <bean id="zhangsan" parent="abstractPeople" depends-on="authotity">
            <property name="id" value="1"></property>
-           <property name="name" value="张三1"></property>
+           <property name="name" value="张三3"></property>
             
     </bean>
     
